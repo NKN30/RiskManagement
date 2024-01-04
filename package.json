@@ -18,7 +18,7 @@
     "@cap-js/sqlite": "^1",
     "@sap-cloud-sdk/resilience": "^3.7.0",
     "@sap/cds-dk": "^7.3.2",
-    "@sap/hana-client": "^2.18.24",
+    "@sap/hana-client": "^2.19.21",
     "@sap/ux-specification": "^1.108.16"
   },
   "scripts": {
